@@ -1,0 +1,45 @@
+{ 
+  "myWork":[{
+    "title": "MY Work # 1",
+    "link": "https://github.com/Rcalix/portfolio",
+    "description": "This is my Work description, remember remove default text from here."
+  },
+  {
+    "title": "MY Work # 2",
+    "link": "https://github.com/Rcalix/portfolio",
+    "description": "This is my Work description, remember remove default text from here."
+  },
+  {
+    "title": "MY Work # 3",
+    "link": "https://github.com/Rcalix/portfolio",
+    "description": "This is my Work description, remember remove default text from here."
+    }
+    ,
+  {
+    "title": "MY Work # 4",
+    "link": "https://github.com/Rcalix/portfolio",
+    "description": "This is my Work description, remember remove default text from here."
+    },
+    {
+      "title": "MY Work # 5",
+      "link": "https://github.com/Rcalix/portfolio",
+      "description": "This is my Work description, remember remove default text from here."
+    },
+    {
+      "title": "MY Work # 6",
+      "link": "https://github.com/Rcalix/portfolio",
+      "description": "This is my Work description, remember remove default text from here."
+    },
+    {
+      "title": "MY Work # 7",
+      "link": "https://github.com/Rcalix/portfolio",
+      "description": "This is my Work description, remember remove default text from here."
+      }
+      ,
+    {
+      "title": "MY Work # 8",
+      "link": "https://github.com/Rcalix/portfolio",
+      "description": "This is my Work description, remember remove default text from here."
+      }
+  ]
+}

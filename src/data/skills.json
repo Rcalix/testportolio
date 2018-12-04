@@ -1,0 +1,20 @@
+{ 
+  "skillsData":[{
+    "title": "MY SERVICE # 1",
+    "description": "This is my service description, remember remove default text from here."
+  },
+  {
+    "title": "MY SERVICE # 2",
+    "description": "This is my service description, remember remove default text from here."
+  },
+  {
+    "title": "MY SERVICE # 3",
+    "description": "This is my service description, remember remove default text from here."
+    }
+    ,
+  {
+    "title": "MY SERVICE # 4",
+    "description": "This is my service description, remember remove default text from here."
+    }
+  ]
+}
