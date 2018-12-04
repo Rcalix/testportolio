@@ -1,10 +1,10 @@
 { 
   "skillsData":[{
-    "title": "MY SERVICE # 1",
+    "title": "Natacion",
     "description": "This is my service description, remember remove default text from here."
   },
   {
-    "title": "MY SERVICE # 2",
+    "title": "Docker",
     "description": "This is my service description, remember remove default text from here."
   },
   {

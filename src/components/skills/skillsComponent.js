@@ -19,6 +19,7 @@ export default class SkillComponent extends Component {
       <div className="service row" style={{backgroundImage: `url(${this.state.images[i]})`}}>
           <div className="service__img col-auto" style={{backgroundImage: `url(${this.state.images[i]})`}}></div>
           <div className="service-text col-auto">
+          <h1>{i}</h1>
             <div className="service__title">{item.title}</div>
             <div className="service__description">{item.description}</div>
           </div>
@@ -26,7 +27,7 @@ export default class SkillComponent extends Component {
     );
     return(
     <section className="main-section my-services">
-      <h1 className="my-services__title">My services</h1>
+      <h1 className="my-services__title">My skills</h1>
       <h1 className="my-services__subtitle">What I can do & more...</h1>
       <div className="my-services__container">
         {element}
